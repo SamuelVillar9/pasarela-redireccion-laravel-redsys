@@ -11,6 +11,7 @@ Descargar código del proyecto, entrar en la carpeta y ejecutar:
 ```
     cd pasarela-redireccion-laravel
     npm install
+    composer installa
     php artisan serve
 ```
 
